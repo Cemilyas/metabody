@@ -16,8 +16,9 @@
   ORCID ID: 0009-0000-6354-3860    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye      
 
-- [**Aslı TÜRK**](https://github.com/asliitturk)     
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
+- [**Aslı TÜRK**](https://github.com/asliitturk)      
+  0009-0002-6528-6428        
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye      
 
 ## Proje Danışmanı    
 - [**Ali Çetinkaya**](https://github.com/acetinkaya)     
