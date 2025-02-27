@@ -23,3 +23,7 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 ## Proje Danışmanı
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul, Türkiye
+
+---
+
+🚀 TEKNOFEST 2025 yolculuğu bir hedefe varış noktasında bir yarışma değildir; aynı zamanda yenilik, üretim, öğrenme ve gelişim sürecidir. Ekibimle birlikte sınırlarımızı zorluyor, yenilikçi çözümler geliştiriyor ve projelerimizi girişimciliğe taşımak için çalışıyoruz. Ayrıca, takımızın bilgi ve 
