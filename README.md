@@ -8,7 +8,8 @@
 İstanbul Gelişim Üniversitesi (İGÜ) MYO "Hedefimiz Gelişim" takımı olarak, TEKNOFEST 2025'e sunulan "MetaBody" projesi tanıtım sayfasıdır.
 
 ## Proje Takımı    
-- [**Cemil İLYAS**](https://github.com/Cemilyas)     
+- [**Cemil İLYAS**](https://github.com/Cemilyas)    
+  ORCID ID: 0009-0009-0537-1146    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye  
 
 - [**Barış KÖSE**](https://github.com/barislx)     
