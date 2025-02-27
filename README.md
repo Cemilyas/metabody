@@ -10,18 +10,18 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 
 İstanbul Gelişim Üniversitesi (İGÜ) MYO "Hedefimiz Gelişim" takımı olarak, TEKNOFEST 2025'e sunulan "MetaBody" projesi tanıtım sayfasıdır.
 
-## Proje Takımı
-- [**Cemil İLYAS**](https://github.com/Cemilyas)  
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
+## Proje Takımı    
+- [**Cemil İLYAS**](https://github.com/Cemilyas)     
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye  
 
-- **Barış KÖSE**  
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
+- **Barış KÖSE**     
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
 
-- **Aslı TÜRK**  
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
+- **Aslı TÜRK**     
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
 
-## Proje Danışmanı
-- [**Ali Çetinkaya**](https://github.com/acetinkaya)
+## Proje Danışmanı    
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul, Türkiye
 
 ---
