@@ -20,3 +20,4 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 - **Aslı TÜRK**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
 
+## Proje Danışmanı
