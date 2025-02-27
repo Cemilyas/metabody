@@ -31,3 +31,4 @@ deneyimini daha ileriye taşımak için Mart ayı içerisinde proje ekibimizle u
 
 💬 Bu heyecan verici yolculukta, tüm ekiplere başarılar diliyoruz 🚀✨
 
+TEKNOFEST 2025’te görüşmek üzere!
