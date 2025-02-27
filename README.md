@@ -15,4 +15,4 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
 
 - **Barış KÖSE**  
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu,
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
