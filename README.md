@@ -17,7 +17,7 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 - [**Barış KÖSE**](https://github.com/barislx)     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
 
-- **Aslı TÜRK**     
+- [**Aslı TÜRK**]     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
 
 ## Proje Danışmanı    
