@@ -21,7 +21,7 @@
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye      
 
 ## Proje Danışmanı    
-- [**Ali Çetinkaya**](https://github.com/acetinkaya)
+- [**Ali Çetinkaya**](https://github.com/acetinkaya)     
   0000-0003-4535-3953      
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul, Türkiye
 
