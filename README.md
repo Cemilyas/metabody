@@ -12,8 +12,9 @@
   ORCID ID: 0009-0009-0537-1146    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye  
 
-- [**Barış KÖSE**](https://github.com/barislx)     
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
+- [**Barış KÖSE**](https://github.com/barislx)      
+  ORCID ID: 0009-0000-6354-3860    
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye      
 
 - [**Aslı TÜRK**](https://github.com/asliitturk)     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
