@@ -13,3 +13,5 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 ## Proje Ekibi
 - **Cemil İLYAS**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye
+
+- **Barış KÖSE**  
