@@ -1,4 +1,4 @@
 # metabody
 TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (2242) - Sosyal Yenilikçilik ve Girişimcilik kategorisi "METABODY" projesi
 
-🚀 TEKNOFEST 
+🚀 TEKNOFEST 2025’te Biz de Varız! 🚀
