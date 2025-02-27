@@ -3,7 +3,7 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 
 🚀 TEKNOFEST 2025 🚀
 
-🚀 ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMAsı 🚀
+🚀 ÜNİVERSİTE ÖĞRENCİLERİ ARAŞTIRMA PROJELERİ YARIŞMASI 🚀
 
 
 İstanbul Gelişim Üniversitesi (İGÜ) MYO "Hedefimiz Gelişim" takımı olarak, TEKNOFEST 2025'e sunulan "MetaBody" projesi tanıtım sayfasıdır.
