@@ -22,4 +22,4 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 
 ## Proje Danışmanı
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
-
+  İstanbul Gelişim Üniversitesi,
