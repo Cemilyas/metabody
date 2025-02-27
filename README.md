@@ -14,7 +14,7 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 - [**Cemil İLYAS**](https://github.com/Cemilyas)     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye  
 
-- **Barış KÖSE**     
+- [**Barış KÖSE**]     
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul, Türkiye   
 
 - **Aslı TÜRK**     
