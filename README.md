@@ -3,4 +3,4 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 
 🚀 TEKNOFEST 2025’te Biz de Varız! 🚀
 
-İstanbul Gelişim Üniversitesi (
+İstanbul Gelişim Üniversitesi (İGÜ) MYO "Hedefimiz Gelişim" takımı olarak, TEKNOFEST 2025 için başvurumuz tamamlanmıştır.
