@@ -29,3 +29,5 @@ TEKNOFEST 2025 - Üniversite Öğrencileri Araştırma Proje Yarışmaları (224
 🚀 TEKNOFEST 2025 yolculuğu bir hedefe varış noktasında bir yarışma değildir; aynı zamanda yenilik, üretim, öğrenme ve gelişim sürecidir. Ekibimle birlikte sınırlarımızı zorluyor, yenilikçi çözümler geliştiriyor ve projelerimizi girişimciliğe taşımak için çalışıyoruz. Ayrıca, takımızın bilgi ve 
 deneyimini daha ileriye taşımak için Mart ayı içerisinde proje ekibimizle uluslararası bir kongreye de katılımda planlanmıştır 🌍
 
+💬 Bu heyecan verici yolculukta, tüm ekiplere başarılar diliyoruz 🚀✨
+
