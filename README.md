@@ -31,9 +31,11 @@
 
 ---
 
-Ekibimizin Çalışmalarından Haberler: 
+Ekibimizin Çalışmalarından Yayınlanan Haberler: 
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo1.png)
+
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo2.png)
 
 ---
 
