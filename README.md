@@ -33,8 +33,7 @@
 
 Ekibimizin Çalışmalarından Haberler: 
 
-!(https://github.com/acetinkaya/metabody/blob/main/myo1.png)
-
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo1.png)
 
 ---
 
