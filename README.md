@@ -52,6 +52,8 @@
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo3.png)
+
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo3.png)
