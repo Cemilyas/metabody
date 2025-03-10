@@ -35,7 +35,7 @@ Ekibimizin Çalışmalarından Yayınlanan Haberler:
 
 Üniversitemizin ana sayfasından haber metnimiz:
 
-https://github.com/acetinkaya/metabody/blob/main/haber-1.png
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/haber-1.png)
 
 https://www.gelisim.edu.tr/tr/gelisim-haber-igmyo-ogrencilerinden-yapay-zeka-destekli-akilli-vucut-analiz-sistemi-metabody
 
