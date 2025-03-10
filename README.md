@@ -52,6 +52,12 @@
 
 ---
 
+---
+
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo3.png)
+
+---
+
 💬 Bu heyecan verici yolculukta, tüm ekiplere başarılar diliyoruz 🚀✨
 
 TEKNOFEST 2025’te görüşmek üzere!
