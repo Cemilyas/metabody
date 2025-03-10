@@ -52,11 +52,11 @@
 
 ---
 
-![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo3.png)
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo4.jpg)
 
 ---
 
-![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo3.png)
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo5.jpg)
 
 ---
 
