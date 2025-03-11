@@ -33,13 +33,13 @@
 
 ## Ekibimizin Çalışmalarından Yayınlanan Haberler: 
 
-[Üniversitemizin ana sayfasından haber metnimiz](https://www.gelisim.edu.tr/tr/gelisim-haber-igmyo-ogrencilerinden-yapay-zeka-destekli-akilli-vucut-analiz-sistemi-metabody):
+## [Üniversitemizin ana sayfasından haber metnimiz](https://www.gelisim.edu.tr/tr/gelisim-haber-igmyo-ogrencilerinden-yapay-zeka-destekli-akilli-vucut-analiz-sistemi-metabody):
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/haber-1.png)
 
 ---
 
-["Hedefimiz Gelişim" Takımızın 6. Uluslararası Mühendislik ve Fen Bilimleri Kongresi'ne katılımı ve bildiri sunumu:](https://www.engineeringandsciencescongress.org/bilimsel-program)
+## ["Hedefimiz Gelişim" Takımızın 6. Uluslararası Mühendislik ve Fen Bilimleri Kongresi'ne katılımı ve bildiri sunumu:](https://www.engineeringandsciencescongress.org/bilimsel-program)
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/kongre-1.jpg)
 
