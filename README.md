@@ -48,7 +48,7 @@
 
 ---
 
-## Üniversitemizin IGU MYO instagram sayfasından haber metnimiz
+## Üniversitemizin IGU MYO Bilgisayar Teknolojileri instagram sayfasından haber metnimiz
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo1.png)
 
