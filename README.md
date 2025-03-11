@@ -33,12 +33,13 @@
 
 ## Ekibimizin Çalışmalarından Yayınlanan Haberler: 
 
-[Üniversitemizin ana sayfasından haber metnimiz](https://www.gelisim.edu.tr/tr/gelisim-haber-igmyo-ogrencilerinden-yapay-zeka-destekli-akilli-vucut-analiz-sistemi-metabody
-):
+[Üniversitemizin ana sayfasından haber metnimiz](https://www.gelisim.edu.tr/tr/gelisim-haber-igmyo-ogrencilerinden-yapay-zeka-destekli-akilli-vucut-analiz-sistemi-metabody):
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/haber-1.png)
 
 ---
+
+[Üniversitemizin IGU MYO instagram sayfasından haber metnimiz]
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/myo1.png)
 
