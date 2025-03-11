@@ -43,6 +43,7 @@
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/kongre-1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/kongre-2.jpg)
 
 
 ---
