@@ -39,7 +39,9 @@
 
 ---
 
-## [Üniversitemizin Bilgisayar Teknolojisi Programı sayfasından haber metnimiz]
+## [Üniversitemizin Bilgisayar Teknolojisi Programı sayfasından haber metnimiz](https://myo.gelisim.edu.tr/tr/akademik-bolum-bilgisayar-teknolojisi-haber-teknofest-2025-te-bilgisayar-teknolojisi-programi-olarak-bizde-variz)
+
+
 
 ---
 
