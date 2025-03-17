@@ -39,7 +39,7 @@
 
 ---
 
-## [Üniversitemizin 
+## [Üniversitemizin Bilgisayar 
 
 ---
 
