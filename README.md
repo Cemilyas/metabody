@@ -39,7 +39,7 @@
 
 ---
 
-## [Üniversitemizin Bilgisayar Teknolojisi 
+## [Üniversitemizin Bilgisayar Teknolojisi Programı 
 
 ---
 
