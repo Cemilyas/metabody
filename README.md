@@ -39,6 +39,10 @@
 
 ---
 
+## [Üniversitemizin 
+
+---
+
 ## ["Hedefimiz Gelişim" Takımızın 6. Uluslararası Mühendislik ve Fen Bilimleri Kongresi'ne katılımı ve bildiri sunumu:](https://www.engineeringandsciencescongress.org/bilimsel-program)
 
 ![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/kongre-1.jpg)
