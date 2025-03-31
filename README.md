@@ -33,7 +33,7 @@
 
 ## Ekibimizin Çalışmaları
 
-İlyas, C., 
+İlyas, C., Köse, B., 
 
 
 ---
