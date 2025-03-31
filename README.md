@@ -33,8 +33,7 @@
 
 ## Ekibimizin Çalışmaları
 
-İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025).
-
+İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). YAPAY ZEKA TEKNİKLERİ İLE 
 
 ---
 
