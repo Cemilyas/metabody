@@ -35,6 +35,10 @@
 
 İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). YAPAY ZEKA TEKNİKLERİ İLE GÖRÜNTÜ VERİ SETLERİ ÜZERİNDE ANALİZ İŞLEMLERİ: DENGESİZ VERİ PROBLEMLERİNİN ANLAŞILMASI VE ÇÖZÜM ÖNERİLERİ. 6. ULUSLARARASI MÜHENDİSLİK VE FEN BİLİMLERİ KONGRESİ (pp.94-103). İstanbul, Turkey
 
+Kongre Sertifikası
+
+![alternatif metin](https://github.com/acetinkaya/metabody/blob/main/kongre_sertifikasi.jpg)
+
 
 ---
 
