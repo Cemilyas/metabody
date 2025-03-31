@@ -33,7 +33,7 @@
 
 ## Ekibimizin Çalışmaları
 
-İlyas, C., Köse, B., Türk, A., &
+İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025).
 
 
 ---
